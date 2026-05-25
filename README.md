@@ -1,2 +1,2 @@
 # rust-book
-Going through the Rust Book
+Let's learn Rust!
