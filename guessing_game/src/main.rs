@@ -6,7 +6,7 @@ fn main() {
 
     println!("Please input your guess.");
 
-    let mut guess = String::new();
+    let mut guess = String::new(); // String is a growable, UTF-8 encoded bit of text.
 
     io::stdin()
         .read_line(&mut guess)
